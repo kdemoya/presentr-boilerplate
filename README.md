@@ -1,7 +1,7 @@
 <div align=center>
 
 # Presentr Boilerplate
-###### 👩🏼‍💻 Boilerplate for a [presentr](https://github.com/kdemoya/presentr), a configuration based presentation engine. 👨🏽‍💻
+###### 👩🏼‍💻 Boilerplate for [presentr](https://github.com/kdemoya/presentr), a configuration based presentation engine. 👨🏽‍💻
 
 </div>
 
